@@ -1,0 +1,7 @@
+*.o
+*.a
+*_test
+*_bench
+*.dSYM
+build/
+#*#
